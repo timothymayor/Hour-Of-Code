@@ -1,4 +1,5 @@
-
+# Taking user input
+# https://replit.com/@tmayor/day2100-days
 
 print("Things I know about you!")
 print()
