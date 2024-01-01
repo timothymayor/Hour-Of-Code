@@ -14,3 +14,4 @@ print("I am feeling 😂!")
 
 print("You can follow my progress at replit.com/@tmayor")
 
+print("Starting over")
